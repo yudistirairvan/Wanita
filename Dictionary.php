@@ -42,5 +42,14 @@ class Dictionary
             'dasar cowok egois',
             'ini semua salahmu'
         ],
+        
+        'ini keren yah, tapi yang itu lebih keren' => [
+            'jelek',
+            'ganti yang lain'
+        ],
+        'sebentar kok' => [
+            '3 jam pun berlalu',
+            'akhirnya negara api menyerang'
+        ],
     ];
 }
